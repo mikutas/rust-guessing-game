@@ -1,0 +1,6 @@
+[package]
+name = "rust-guessing-game"
+version = "0.1.0"
+authors = ["tkms0106 <siberianexpress1991@gmail.com>"]
+
+[dependencies]
